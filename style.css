@@ -37,7 +37,7 @@ body {
 aside {
     min-width: 320px;
     width: 320px;
-    height: 100vh;
+    height: 100%;
     min-height: 590px;
     background-color: #FFFFFF;
     display: flex;
