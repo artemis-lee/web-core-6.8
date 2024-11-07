@@ -37,8 +37,8 @@ body {
 aside {
     min-width: 320px;
     width: 320px;
-    height: 100%;
-    min-height: 590px;
+    height: 100dvh;
+    position: fixed;
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
